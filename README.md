@@ -3,3 +3,7 @@
 ## h2 Hello world!
 
 ### h3 Hello world!
+
+**stars around words**
+
+_underscores around words_
